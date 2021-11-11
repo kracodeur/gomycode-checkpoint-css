@@ -1,0 +1,12 @@
+header,h3{
+    color: red;
+}
+
+#to:hover{
+    color: darkmagenta;
+}
+main{
+    font-size: 40px;
+}
+
+#brain:visited
